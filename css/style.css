@@ -451,6 +451,7 @@ textarea.input {
 
 .header-logo {
   float: left;
+  margin-left: 20%;
 }
 
 .header-logo .logo img {
@@ -463,6 +464,7 @@ textarea.input {
 
 .header-search {
   padding: 15px 0px;
+  
 }
 
 .header-search form {
@@ -475,7 +477,7 @@ textarea.input {
 }
 
 .header-search form .input {
-  width: calc(100% - 260px);
+  width: calc(100% - 290px);
   margin-right: -4px;
 }
 
@@ -496,6 +498,7 @@ textarea.input {
 .header-ctn {
   float: right;
   padding: 15px 0px;
+  padding-right: 10%;
 }
 
 .header-ctn>div {
